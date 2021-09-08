@@ -1,0 +1,6 @@
+1. Interview is the external folder structure where the files would be kept.
+
+2. The file names , location will be present in the property file of the program
+3. Based on the location and file name provided in the property file, the program will read the files and shall calculate the total for the 1st file and average of the 2nd file.
+4. The program will then connect to mssql database, whose credentials are provided in property file and shall inser tthe data into 2 tables.
+5. If the program is deployed in prod, we need to change the APP_DEPLOYMENT_LEVEL in the property file to PRD
