@@ -1,0 +1,5 @@
+dataA1|dataB1|10|dataC1|dataD1
+dataA2|dataB2|20|dataC2|dataD2
+dataA3|dataB3|30|dataC3|dataD3
+dataA4|dataB4|40|dataC4|dataD4
+dataA5|dataB5|50|dataC5|dataD5
